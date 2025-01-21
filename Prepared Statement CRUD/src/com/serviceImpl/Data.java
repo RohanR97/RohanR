@@ -23,6 +23,7 @@ public class Data implements Requirements {
 		con.close();
 		
 	}
+	//Changes made
 
 	@Override
 	public void insertData() throws Exception {
